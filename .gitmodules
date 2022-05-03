@@ -1,0 +1,6 @@
+[submodule "utils"]
+	path = utils
+	url = https://github.com/tawol-technologies/tinnie.git
+[submodule "src/utils/tinnie"]
+	path = src/utils/tinnie
+	url = https://github.com/tawol-technologies/tinnie.git
